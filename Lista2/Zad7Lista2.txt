@@ -1,0 +1,13 @@
+Zadanie 7
+Powstanie drzewo jednoga³êziowe. Skrajnie niezrównowa¿one.
+G³êbokoœæ drzewa wynosi: n
+Porównañ kluczy bêdzie: (n*(n-1))/2
+Poniewa¿
+dla n bêdziemy mieli 0+1+2+3+... n-1   daje nam ci¹g arytmetyczny
+1
+    2
+        3
+            4
+                ...
+                    n 
+Z³o¿onoœc tego procesu: O(n^2)

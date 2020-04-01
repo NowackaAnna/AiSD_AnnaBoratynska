@@ -1,0 +1,5 @@
+Zadanie 8
+Mamy n wez³ów w dzewie
+Do ka¿dego wêz³¹ wchodzi jedna strza³ka z wyj¹tkiem korzenia czyli jest n-1 strza³ek wchodzacych.
+Liczba wszystkich wskaŸników = 2n
+Z tego wynika ze w  ka¿dym  drzewie  BST  zawsze  ponad  po³owa  wskaŸników  (pólleftiright) jest równaNULL (n+1)

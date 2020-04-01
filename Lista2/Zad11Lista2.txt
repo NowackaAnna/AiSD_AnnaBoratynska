@@ -1,0 +1,4 @@
+Zadanie 11
+Postêpowanie opisane w podpunkcie c) nie psuje wypisywania w porz¹dki inorder poniewa¿ najmniejszy element w jego prawym
+podrzewie jest i tak wiêkszy ni¿ wszystkie elementy w jego prawym podrzewie.
+Dodatkowo wszystkie elementy w jego prawym podrzewie s¹ od niego wieksze.

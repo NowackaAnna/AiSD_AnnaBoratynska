@@ -1,0 +1,10 @@
+Zadanie 9
+Maksymalna iloœæ wêz³ów 2^(h+1)-1
+
+        10              h = 0; wêz³ów=1
+    5       20          h = 1; wêz³ów=3
+1     6  15     30      h = 2; wêz³ów=7
+
+Najwieksza oraz najmniejsza g³êbokoœæ drzewa o iloœæi wêz³ów;
+Najwieksza to w przypadku skrajnie zdegenerowanego drzewa h= n-1;
+Najmniejsza w przypadku: [log2(n)];
